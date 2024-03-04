@@ -1,2 +1,2 @@
 # ECON136
-UCB ECON 136 Spring 2024
+Repository for computational tasks realted to the Problem Sets in ECON 136 Financial Economics Spring 2024 at University of California Berkeley
